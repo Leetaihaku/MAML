@@ -1,0 +1,7 @@
+### Network Dictionary ###
+format: (key, class)
+------------------------
+('continuous_policy_separate_value', <class 'network.PPO.ContinuousPolicySeparateValue'>)
+('continuous_policy_value', <class 'network.PPO.ContinuousPolicyValue'>)
+('discrete_policy_separate_value', <class 'network.PPO.DiscretePolicySeparateValue'>)
+('discrete_policy_value', <class 'network.PPO.DiscretePolicyValue'>)

@@ -1,0 +1,13 @@
+### Env Dictionary ###
+format: (key, class)
+------------------------
+('ant', <class 'environment.mujoco.Ant'>)
+('half_cheetah', <class 'environment.mujoco.HalfCheetah'>)
+('hopper', <class 'environment.mujoco.Hopper'>)
+('humanoid', <class 'environment.mujoco.Humanoid'>)
+('humanoid_standup', <class 'environment.mujoco.HumanoidStandup'>)
+('inverted_double_pendulum', <class 'environment.mujoco.InvertedDoublePendulum'>)
+('inverted_pendulum', <class 'environment.mujoco.InvertedPendulum'>)
+('reacher', <class 'environment.mujoco.Reacher'>)
+('swimmer', <class 'environment.mujoco.Swimmer'>)
+('walker', <class 'environment.mujoco.Walker'>)

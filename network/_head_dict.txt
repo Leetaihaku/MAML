@@ -1,0 +1,8 @@
+### Head Dictionary ###
+format: (key, class)
+------------------------
+('cnn', <class 'network.head.CNN'>)
+('cnn_lstm', <class 'network.head.CNN_LSTM'>)
+('mlp', <class 'network.head.MLP'>)
+('mlp_lstm', <class 'network.head.MLP_LSTM'>)
+('multi', <class 'network.head.Multi'>)
